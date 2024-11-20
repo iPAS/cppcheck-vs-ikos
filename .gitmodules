@@ -1,0 +1,6 @@
+[submodule "ikos"]
+	path = ikos
+	url = git@github.com:NASA-SW-VnV/ikos.git
+[submodule "cppcheck-misra-script"]
+	path = cppcheck-misra-script
+	url = git@github.com:iPAS/cppcheck-misra-script.git
